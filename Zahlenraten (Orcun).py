@@ -19,3 +19,4 @@ while True:
         else:
             print("Danke fürs spielen")
             break
+            #kein komma 
